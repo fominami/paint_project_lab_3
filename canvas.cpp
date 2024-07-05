@@ -3,6 +3,8 @@
 #include <QCursor>
 #include <QFile>
 #include <QDataStream>
+#include <QTextStream>
+#include <QDebug>
 #include <algorithm>
 
 Canvas::Canvas(QWidget *parent)
